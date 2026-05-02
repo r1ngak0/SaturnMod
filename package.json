@@ -22,8 +22,5 @@
     "sodium-native": "^4.1.1",
     "spotify-web-api-node": "^5.0.2",
     "yt-search": "^2.10.4"
-  },
-  "engines": {
-  "node": ">=20.18.1"
-}
+  }
 }
